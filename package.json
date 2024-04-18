@@ -1,0 +1,27 @@
+{
+  "name": "just-tech-news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeevanthapa1987/just-tech-news.git"
+  },
+  "author": "jeevan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeevanthapa1987/just-tech-news/issues"
+  },
+  "homepage": "https://github.com/jeevanthapa1987/just-tech-news#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "inquirer": "^7.3.3",
+    "mysql2": "^3.9.5",
+    "sequelize": "^6.37.3"
+  }
+}
